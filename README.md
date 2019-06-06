@@ -1,4 +1,6 @@
 # Redis Commander
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fredis-commander.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fredis-commander?ref=badge_shield)
+
 
 Redis web management tool written in node.js
 
@@ -274,3 +276,7 @@ To use the stock Node.js image builder do the following.
 To use this images as a base image for other images you need to call "apk update" inside your Dockerfile
 before adding other apk packages with "apk add foo". Afterwards, to reduce your image size, you may
 remove all temporary apk configs too again as this Dockerfile does.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fredis-commander.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fredis-commander?ref=badge_large)
